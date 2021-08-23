@@ -1,7 +1,7 @@
 # EDA-on-Global-Terrorism
 (GRIP - The Sparks Foundation)
 Aniketh Gaonkar  
-Data Science 
+Data Science and Bussiness Analytics
 GRIPAug21  
 
 Exploratory Data Analysis  on the Global Terrorism
